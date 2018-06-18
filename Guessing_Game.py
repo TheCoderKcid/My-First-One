@@ -1,5 +1,5 @@
 def GuessingGame():
-    print('This is a demo. In the game, the computer randomly selects a word from a list, and you have 3 tries to guess the word. If you want an expanded version of the game, go to issues, and comment with the title ''<Like the Game>'' Thanks for playing the game!') 
+    print('This is a demo. In the game, the computer randomly selects one word from a list of so far four words. You must guess this word within three tries. Make sure to guess with the first letter of the word capitalized. If you want an expanded version of the game, go to issues, and comment with the title ''<Like the Game>'' Thanks for playing the game!') 
     import random
     wrong=0
     WordList=['Parakeet', 'Pseudonym', 'Brahms', 'Bacon']
